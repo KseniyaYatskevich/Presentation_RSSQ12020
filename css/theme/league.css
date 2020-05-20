@@ -321,3 +321,12 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.reveal section .img_big {
+  width: 80%;
+  border: 0;
+}
+
+.reveal section .table_big td {
+  width: 50%;
+}
